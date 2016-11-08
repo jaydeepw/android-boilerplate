@@ -1,0 +1,11 @@
+<resources>
+    <string name="msg_no_internet">Internet connection not available</string>
+    <string name="msg_please_wait">Please wait…</string>
+
+    <!--server error messages-->
+    <string name="server_error_401unaunthorized">Sorry! You're not authorized to do this</string>
+    <string name="server_error_500internal_error">Sorry! Server internal error</string>
+    <string name="server_error_400bad_request">Sorry! Bad data</string>
+    <string name="server_error_503unavailable">Sorry! Service unavailable</string>
+
+</resources>
